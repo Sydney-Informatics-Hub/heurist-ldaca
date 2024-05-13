@@ -1,0 +1,16 @@
+{
+  "name": "omaa-ldaca",
+  "version": "1.0.0",
+  "description": "Script for making the OMAA RO-Crate conform to the LDaCA profile",
+  "main": "ldaca-preprocess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Lynch",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "ro-crate": "^3.3.6",
+    "yargs": "^17.7.2"
+  }
+}
